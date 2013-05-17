@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackService.Server", "CallbackService.Server\CallbackService.Server.csproj", "{08C0104E-16F7-4B1D-A87F-7DC7E30F4654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackService.Client", "CallbackService.Client\CallbackService.Client.csproj", "{9D958131-BF6A-4E92-BC0A-511E75738303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C0104E-16F7-4B1D-A87F-7DC7E30F4654}.Debug|x86.ActiveCfg = Debug|x86
+		{08C0104E-16F7-4B1D-A87F-7DC7E30F4654}.Debug|x86.Build.0 = Debug|x86
+		{08C0104E-16F7-4B1D-A87F-7DC7E30F4654}.Release|x86.ActiveCfg = Release|x86
+		{08C0104E-16F7-4B1D-A87F-7DC7E30F4654}.Release|x86.Build.0 = Release|x86
+		{9D958131-BF6A-4E92-BC0A-511E75738303}.Debug|x86.ActiveCfg = Debug|x86
+		{9D958131-BF6A-4E92-BC0A-511E75738303}.Debug|x86.Build.0 = Debug|x86
+		{9D958131-BF6A-4E92-BC0A-511E75738303}.Release|x86.ActiveCfg = Release|x86
+		{9D958131-BF6A-4E92-BC0A-511E75738303}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
